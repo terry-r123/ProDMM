@@ -212,3 +212,5 @@ python score_dms.py --fasta example_data/NCDS_zhang_2009.fasta \
 ### 4. Fine-tuning on downstream tasks
 See in ./fintunes
 
+## ProDMM-Seq2Seq
+### 1. Reverse Translation
